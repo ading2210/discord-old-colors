@@ -1,4 +1,4 @@
-# Discord Old Colors
+# Old Discord Colors
 Restores the old discord colors
 
 ## How to use:
